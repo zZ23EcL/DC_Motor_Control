@@ -12,5 +12,6 @@ start：2022/03/10/21:05
 ##开发记录
 2022/03/10 硬件连线全部到货，新建项目文件夹，增加环境DC_Motot_Control(python==3.9)  
 2022/03/11 硬件连线完成，采用官网的调试软件：Motion Manager6.0，windows调试基本完成
+2022/03/12 无法解决检测不到串口，检测到的是USB设备FAULHABER MC3，考虑是驱动的问题
 # DC_Motor_Control
 
